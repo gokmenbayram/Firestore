@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "254887674885",
+    "project_id": "firestoreforceupdate",
+    "storage_bucket": "firestoreforceupdate.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254887674885:android:6bb3a8ca058d9efe04c86c",
+        "android_client_info": {
+          "package_name": "com.gb.firestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "254887674885-tmq2mesk506lt5h7elfrlsfv57ieacqo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABKiADpjVTifei8df_7ngsDMmx0viECBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "254887674885-tmq2mesk506lt5h7elfrlsfv57ieacqo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
